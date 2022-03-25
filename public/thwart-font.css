@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rox';
+    src: url('Warox.eot');
+    src: url('Warox.eot?#iefix') format('embedded-opentype'),
+        url('Warox.woff2') format('woff2'),
+        url('Warox.woff') format('woff'),
+        url('Warox.ttf') format('truetype'),
+        url('Warox.svg#Warox') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
