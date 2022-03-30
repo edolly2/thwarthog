@@ -6,7 +6,6 @@ function App() {
   return (
     <div>
       <Header />
-      <p>kadjf;aldkjf;aldskjfa;lkdsjfal;kdsjf;</p>
     </div>
   );
 }
